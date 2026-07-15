@@ -1,6 +1,6 @@
-# 3D Interactive Hero Section
+# 3D Interactive Project (Chill Drinks)
 
-A modern, interactive 3D hero section built with React and Three.js, featuring an animated 3D model with real-time rendering capabilities.
+A modern, interactive 3D Website with React and Three.js, featuring an animated 3D model with real-time rendering capabilities.
 
 ## 📋 Overview
 
@@ -14,6 +14,7 @@ This project demonstrates the integration of Three.js with React using React Thr
 - **@react-three/drei** - Useful helpers and abstractions for React Three Fiber
 
 ## 🎨 Animations & 3D Features
+- **Sketchfab** - using [Sketchfab](https://sketchfab.com/) website select and download a animation in the website in GLTF/GLB formate.
 
 ### 1. **Model Animation (GLTF/GLB Animation)**
 - Plays baked animations from the GLB model file
@@ -54,10 +55,3 @@ This project demonstrates the integration of Three.js with React using React Thr
 ### Prerequisites
 - Node.js (v14 or higher)
 - npm or yarn
-
-### Installation
-
-1. Clone the repository:
-```bash
-git clone <repository-url>
-cd <project-directory>
