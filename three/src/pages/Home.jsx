@@ -14,7 +14,7 @@ function Home() {
         {/* Content Overlay */}
         <div className="relative z-10 flex flex-col items-left h-full px-4 pt-70">
           <h1 className="text-5xl md:text-7xl font-bold text-white mb-6 text-left">
-            Crafted Drinks
+            Chill Drinks
             <span className="block text-2xl md:text-3xl text-blue-300 mt-4 font-light">
               For Every Occasion
             </span>
