@@ -1,5 +1,5 @@
 # 3D Interactive Project (Chill Drinks)
-
+## React + Three.js 
 A modern, interactive 3D Website with React and Three.js, featuring an animated 3D model with real-time rendering capabilities.
 
 ## 📋 Overview
@@ -51,7 +51,7 @@ This project demonstrates the integration of Three.js with React using React Thr
 - Gives users a clear perspective of the model's 3D form
 
 ## 🚀 Getting Started
-
-### Prerequisites
-- Node.js (v14 or higher)
-- npm or yarn
+### npm command
+- Three.js Library -`npm i three`
+- React renderer for Three.js - `npm i @react-three/fiber`
+- Helpers and Abstractions for React Three - `npm i @react-three/fiber`
