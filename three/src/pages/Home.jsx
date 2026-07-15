@@ -1,13 +1,7 @@
-import { Coffee, Beer, Wine, GlassWater } from 'lucide-react';
+
 import Hero from '../components/Hero';
 
-const Home = () => {
-  const drinks = [
-    { name: 'Iced Coffee', icon: Coffee, color: 'from-amber-400 to-orange-500' },
-    { name: 'Cold Beer', icon: Beer, color: 'from-yellow-400 to-amber-500' },
-    { name: 'Wine Cooler', icon: Wine, color: 'from-red-400 to-rose-500' },
-    { name: 'Sparkling Water', icon: GlassWater, color: 'from-cyan-400 to-blue-500' },
-  ];
+function Home() {
 
   return (
     <div className="min-h-screen">
